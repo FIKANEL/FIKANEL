@@ -2,7 +2,7 @@
 
 Mahasiswa D4 Manajemen Informatika di Universitas Negeri Surabaya yang membangun aplikasi web end-to-end, sekaligus mendalami data science dan AI.
 
-> 📢 **Catatan:** ini akun GitHub baru saya karena akun lama terkena suspend.
+> 📢 **Catatan:** ini akun GitHub baru saya; akun lama sudah tidak aktif.
 
 ### 🔭 Sedang dikerjakan
 - Sistem informasi berbasis web untuk Puskesmas Tapanrejo & Puskesmas Tembokrejo
